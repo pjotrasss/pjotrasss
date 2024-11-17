@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pjotrasss
 - 👀 I’m interested in programming
-- 🌱 I’m currently webdev
+- 🌱 I’m currently learning webdev
 - 💞️ I’m looking to collaborate on anything webdev related
 - 📫 discord -> shaggyshaggs
 
