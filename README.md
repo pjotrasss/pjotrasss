@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @pjotrasss
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning webdev
-- 💞️ I’m looking to collaborate on anything webdev related
-- 📫 discord -> shaggyshaggs
+### 👋 Cześć, jestem @pjotrasss
+
+🎯 Young programmer with passion for web development
+📚 I'm currently learning PHP and Laravel. 
+🔍 I'm interested in web app architecture, API, backend & data analysis.
+🤝 I'm looking for an opportunity to work on web projects (freelance, open source).  
+📫 DM me on discord: **shaggyshaggs**  
+
+### ⚒️ Technologies I use:
+- PHP (Learning Laravel)
+- MySQL
+- JavaScript
+- Git & GitHub
+- Linux (CLI, servers)
 
 <!---
 pjotrasss/pjotrasss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
