@@ -1,10 +1,10 @@
 ### 👋 Hi, I'm @pjotrasss
 
 🎯 Young programmer with passion for web development
-📚 I'm currently learning PHP and Laravel.
-🔍 I'm interested in web app architecture, API, backend & data analysis.
-🤝 I'm looking for an opportunity to work on web projects (freelance, open source).
-📫 DM me on discord: **shaggyshaggs**  
+<br>📚 I'm currently learning PHP and Laravel.
+<br>🔍 I'm interested in web app architecture, API, backend & data analysis.
+<br>🤝 I'm looking for an opportunity to work on web projects (freelance, open source).
+<br>📫 DM me on discord: **shaggyshaggs**  
 
 ### ⚒️ Technologies I use:
 - PHP (Learning Laravel)
