@@ -1,4 +1,4 @@
-### 👋 Cześć, jestem @pjotrasss
+### 👋 Hi, I'm @pjotrasss
 
 🎯 Young programmer with passion for web development
 📚 I'm currently learning PHP and Laravel. 
